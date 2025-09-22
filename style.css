@@ -1,0 +1,43 @@
+body {
+	margin: auto;
+	width: 20%;
+	background-color: #f4d04e;
+	box-shadow: 20px 20px black;
+	border-radius: 20px;
+	margin-top: 10%;
+}
+h2 {
+	background-color: #f4d04e;
+	color: black;
+	border-radius: 10px;
+	width: max-content;
+	padding: 5px 10px 5px 10px;
+}
+.blog {
+	border-radius: 10px;
+	text-align: center;
+	width: 100%;
+	margin: auto;
+}
+.carte {
+	background-color: white;
+	border-radius: 20px;
+	padding: 25px;
+	border: 1px solid black;
+	font-family: "figtree";
+}
+.grg {
+	width: 30px;
+	height: 30px;
+	border-radius: 100px;
+	float: left;
+}
+h1:hover {
+	color: #f4d04e;
+}
+.p1 {
+	color: #7f7f7f;
+}
+.p2 {
+	font-weight: bold;
+}
