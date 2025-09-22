@@ -31,6 +31,7 @@ h2 {
 	height: 30px;
 	border-radius: 100px;
 	float: left;
+	object-fit: cover;
 }
 h1:hover {
 	color: #f4d04e;
